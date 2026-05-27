@@ -95,7 +95,7 @@ JSONPlaceholder
 
 ### Screenshot
 
-![Create Environment](img/taoEnviroment.png)
+![Create Environment](taoEnviroment.png)
 
 ---
 
@@ -107,7 +107,7 @@ JSONPlaceholder
 
 ### Screenshot
 
-![Add Variable](img/taoEnviroment.png)
+![Add Variable](taoEnviroment.png)
 
 ---
 
@@ -117,7 +117,7 @@ Environment được liên kết với workspace để sử dụng biến độn
 
 ### Screenshot
 
-![Attach Environment](img/taoreqthemev.png)
+![Attach Environment](taoreqthemev.png)
 
 ---
 
@@ -161,7 +161,7 @@ pm.test("Status code is 200", function () {
 
 ### Screenshot
 
-![GET Test](img/testGET.png)
+![GET Test](testGET.png)
 
 ---
 
@@ -198,7 +198,7 @@ pm.test("Status code is 201", function () {
 
 ### Screenshot
 
-![POST Test](img/TestPOST.png)
+![POST Test](TestPOST.png)
 
 ---
 
@@ -236,7 +236,7 @@ pm.test("PUT success", function () {
 
 ### Screenshot
 
-![PUT Test](img/testPUT.png)
+![PUT Test](testPUT.png)
 
 ---
 
@@ -263,7 +263,7 @@ pm.test("DELETE success", function () {
 
 ### Screenshot
 
-![DELETE Test](img/testDELETE.png)
+![DELETE Test](testDELETE.png)
 
 ---
 
@@ -308,7 +308,7 @@ pm.test("API should not crash", function () {
 
 ### Screenshot
 
-![GET Huge ID](img/testGetIDlon.png)
+![GET Huge ID](testGetIDlon.png)
 
 ---
 
@@ -331,7 +331,7 @@ Thực hiện kiểm thử với giá trị ID âm để xác minh API xử lý 
 
 ### Screenshot
 
-![GET Negative ID](img/testGETIDAM.png)
+![GET Negative ID](testGETIDAM.png)
 
 ---
 
@@ -363,7 +363,7 @@ http://api.weatherapi.com/v1/current.json?key=YOUR_API_KEY&q=Hanoi
 
 ### Screenshot
 
-![Weather API](img/testAPIthoitiet.png)
+![Weather API](testAPIthoitiet.png)
 
 ---
 
@@ -387,7 +387,7 @@ Toàn bộ API requests được thực thi bằng Collection Runner trong Postm
 
 ### Screenshot
 
-![Collection Runner](img/RunFULLTEST.png)
+![Collection Runner](RunFULLTEST.png)
 
 ---
 
