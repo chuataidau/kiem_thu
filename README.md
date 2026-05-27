@@ -81,7 +81,7 @@ Lab7
 
 ### Screenshot
 
-![Create Collection](img/taocol.png)
+![Create Collection](taocol.png)
 
 ---
 
